@@ -12,13 +12,4 @@
 - ⚡ Fun fact: 
 
 -->
-    <br>
- 
-    ## My Skills:
-    <div style="text-align:center;"> 
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    
-    </div>
+   
