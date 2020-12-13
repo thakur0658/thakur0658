@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/thakur0658-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/https://www.instagram.com/thakur0658/)](https://www.instagram.com/thakur0658/)
 [![Twitter](https://img.shields.io/badge/thakur0658-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/thakur0658)](https://twitter.com/thakur0658)
+[![Facebook](https://img.shields.io/badge/thakur0658-black?style=flat&logo=Twitter&logoColor=darkblue&link=https:https:https://www.facebook.com/profile.php?id=100014446202447)](https://www.facebook.com/profile.php?id=100014446202447)
 
 
 
