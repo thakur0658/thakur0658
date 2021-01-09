@@ -8,10 +8,10 @@
 
 <br>
 
-- 🔭 I’m currently improving my knowledge
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently gaining knowledge and improving my skills.
+- 🌱 Presently, I’m learning JavaScript & Python
 - 👯 I’m looking to collaborate on projects like websites/blogs designing
-- 💬 Ask me about Frontend Web Development
+- 💬 Ask me about Frontend Web Development/Designing
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
 
