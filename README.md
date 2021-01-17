@@ -15,7 +15,7 @@
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
 
-<br>
+<br><br>
 
 ## My Working Stack:
 
