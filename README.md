@@ -9,11 +9,13 @@
 <br>
 
 - 🔭 I’m currently gaining knowledge and improving my skills.
-- 🌱 Presently, I’m learning JavaScript & Python
+- 🌱 Presently, I’m learning JavaScript & Python 
 - 👯 I’m looking to collaborate on projects like websites/blogs designing
 - 💬 Ask me about Frontend Web Development/Designing
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
+- ⚡ Designing is all about.... ideas strike in our mind.
+
 
 <br><br>
 
@@ -24,6 +26,7 @@
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
+     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
