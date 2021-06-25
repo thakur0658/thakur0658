@@ -37,6 +37,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakur0658" alt="thakur0658" /></a> </p>
 <br><br>
 
+<br>
+## Streak:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakur0658&show_icons=true&locale=en&layout=compact" alt="thakur0658" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakur0658&" alt="thakur0658" /></p>
+<br>
 ## My Statistics:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=thakur0658&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/thakur0658?tab=repositories)
