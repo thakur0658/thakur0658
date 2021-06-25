@@ -11,22 +11,13 @@
 - 🌱 Presently, I’m learning Android App Development 
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
-- ⚡ Designing is all about..... ideas strike in our mind.
 
 <br>
 
-## My Working Stack:
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-
+## 🧰Languages and Tools:
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-Kotlin-000000?&style=flat&logo=kotlin&logoColor=DEDEDF"/>
-    <img src="https://img.shields.io/badge/-XML-000000?&style=flat&logo=xml&logoColor=29B4F4"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=5968BA" />
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
+
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
@@ -39,7 +30,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakur0658&" alt="thakur0658" /></p>
 <br>
 
-## My Statistics: 
+## 📈My Github Stats: 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=thakur0658&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/thakur0658?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakur0658&layout=compact&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f)](https://github.com/thakur0658?tab=repositories)
 
