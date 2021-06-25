@@ -12,7 +12,7 @@
 - 🌱 Presently, I’m learning Android App Development 
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
-- ⚡ Designing is all about.... ideas strike in our mind.
+- ⚡ Designing is all about..... ideas strike in our mind.
 
 
 <br><br>
