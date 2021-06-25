@@ -43,6 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakur0658&" alt="thakur0658" /></p>
 <br>
 ## My Statistics: 
+
 [![My Stats](https://github-readme-stats.vercel.app/api?username=thakur0658&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/thakur0658?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakur0658&layout=compact&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f)](https://github.com/thakur0658?tab=repositories)
 
