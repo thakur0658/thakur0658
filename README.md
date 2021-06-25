@@ -28,4 +28,4 @@
 ## 📈My Github Stats: 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=thakur0658&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/thakur0658?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakur0658&layout=compact&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f)](https://github.com/thakur0658?tab=repositories)
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakur0658&label=Profile%20views&color=0e75b6&style=flat" alt="thakur0658" /> </p>
