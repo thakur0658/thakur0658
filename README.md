@@ -24,8 +24,10 @@
     <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
+    <img src="https://img.shields.io/badge/-KOTLIN-000000?&style=flat&logo=kotlin3&logoColor=DEDEDF"/>
+    <img src="https://img.shields.io/badge/-XML-000000?&style=flat&logo=xml3&logoColor=DEDEDF"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=5968BA" />
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
