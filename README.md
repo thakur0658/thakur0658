@@ -33,14 +33,15 @@
     <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
 </div>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakur0658" alt="thakur0658" /></a> </p>
+<br><br>
+
 ## Streak:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakur0658&show_icons=true&locale=en&layout=compact" alt="thakur0658" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakur0658&" alt="thakur0658" /></p>
 <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakur0658" alt="thakur0658" /></a> </p>
-<br><br>
 
 ## My Statistics: 
 
