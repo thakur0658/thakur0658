@@ -5,6 +5,10 @@
 [![Twitter](https://img.shields.io/badge/thakur0658-blue?style=flat&logo=Twitter&logoColor=white&link=https:https:https://twitter.com/AditiSi00044342)](https://twitter.com/AditiSi00044342)
 [![Linkedin](https://img.shields.io/badge/Aditi_Singh-blue?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/aditi-singh-424b16197/)](https://www.linkedin.com/in/aditi-singh-424b16197/)
 
+JSX          19 hrs 54 mins  █████████████████████▒░░░   85.59 % 
+JavaScript   2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 <br>
 
