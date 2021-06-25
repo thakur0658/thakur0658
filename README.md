@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 I’m currently gaining knowledge and improving my skills.
+- 🔭 I’m currently grabbing knowledge and improving my skills.
 - 🌱 Presently, I’m learning Android App Development 
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
