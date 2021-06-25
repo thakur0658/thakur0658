@@ -9,9 +9,7 @@
 <br>
 
 - 🔭 I’m currently gaining knowledge and improving my skills.
-- 🌱 Presently, I’m learning JavaScript & Python 
-- 👯 I’m looking to collaborate on projects like websites/blogs designing
-- 💬 Ask me about Frontend Web Development/Designing
+- 🌱 Presently, I’m learning Android App Development 
 - 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
 - ⚡ Designing is all about.... ideas strike in our mind.
