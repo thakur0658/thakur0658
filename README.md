@@ -7,9 +7,9 @@
 
 <br>
 
-- 🔭 Grabbing knowledge and improving my skills.
-- 🌱 Presently, I’m learning Web Developing & Designing
-- 📫 How to reach me: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
+- 🔭 Improving skills
+- 🌱 Learning React
+- 📫 Contact: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
 
 <br>
