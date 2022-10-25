@@ -8,7 +8,7 @@
 <br>
 
 - 🔭 Improving skills
-- 🌱 Learning React
+- 🌱 Learning Everyday
 - 📫 Contact: <a href="aditisingh0658@gmail.com">aditisingh0658@gmail.com</a>
 - ⚡ Fun fact: Lists are better than large paragraphs.
 
